@@ -1,6 +1,6 @@
 <img src="이미지 URL" width="?%" height="?%">
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/개발툴-000000?style=flat&logo=tensorflow.svg&logoColor=#FF6F00"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=#FF6F00"/></a>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=khs20137&theme=algolia)
 

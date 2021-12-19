@@ -9,13 +9,6 @@
   <li>AI를 통해 세상에 이로운 혁신을 만들고 싶습니다.</li>
   <li>요리하고 대접하는 것을 좋아합니다.</li>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=khs20137&theme=algolia)
-
-
-![khs20137's github stats](https://github-readme-stats.vercel.app/api?username=khs20137&show_icons=true&theme=algolia)
-[![khs20137's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khs20137&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=algolia)](https://github.com/khs20137)
-
-
 <!---
 khs20137/khs20137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

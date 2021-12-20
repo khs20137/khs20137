@@ -23,7 +23,7 @@
 
 <ul>
   <li>Matplotlib, Gensim, NLTK, openCV, Pillow 등 RNN과 CNN을 위한 도구로 사용 가능</li>
-  <li>NCF(Neural Collaborative Filtering)에 소개된 NeuMF 추천 모델 </li>
+  <li>NCF(Neural Collaborative Filtering)에 소개된 NeuMF 추천 모델 구현</li>
 </ul>
 
 

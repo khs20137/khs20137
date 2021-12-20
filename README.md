@@ -1,4 +1,4 @@
-<a href="mailto:hey.khs901213@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Contact ME-000000?style=flat&logo=gmail&logoColor=#EA4335" width="105px" height="26px"/></a>
+<a href="mailto:khs901213@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Contact ME-000000?style=flat&logo=gmail&logoColor=#EA4335" width="105px" height="26px"/></a>
 <a href="https://www.notion.so/black-dk-deeplearning/a46ee3b2791544bc971a6af1d8b27c77" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=#000000" width="100px" height="26px"/></a>
 
 <h3>Hi! I'm Deep thinking AI Developer🤔</h3>
